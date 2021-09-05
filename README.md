@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### This is Arijit Mitra
-
+________________________________________________________________
 
 - 🔭 I’m currently working on Web Development using MERN Stack.
 - 🌱 I’m currently learning Data Structure and Algorithms.
