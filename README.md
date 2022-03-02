@@ -1,5 +1,5 @@
 ### Hi there 👋
-### This is Arijit Mitra 🤝
+### I am Arijit Mitra 🤝
 ________________________________________________________________
 
 - 🔭 I’m currently working on Web Development using MERN Stack
